@@ -1,0 +1,24 @@
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment variables and credentials
+.env
+.env.*
+!.env.example
+
+# Temporary files
+*.tmp
+*.log
+~$*.xlsx
+
+# Large original satellite imagery
+*.jp2
+*.SAFE/
+*.zip
+
+# Local caches
+.cache/
