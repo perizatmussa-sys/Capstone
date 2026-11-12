@@ -1,0 +1,6 @@
+Model,ROC_AUC,Balanced_Accuracy
+Random Forest,0.727,0.708
+Logistic Regression,0.695,0.681
+Decision Tree,0.711,0.702
+XGBoost,0.723,0.676
+SVM,0.621,0.663
